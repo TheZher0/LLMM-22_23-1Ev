@@ -1,1 +1,9 @@
-/* Aquí va el CSS del ejercicio 3 */
+h2,p,ul,ol{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+a{
+    text-decoration: dashed;
+    text-decoration-color: blanchedalmond ;
+}

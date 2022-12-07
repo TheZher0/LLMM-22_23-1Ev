@@ -1,1 +1,23 @@
-<!-- Aquí el contenido en xml (Borrar esta línea) -->
+<alumno>
+    <nombre> Hasbullah magomedov</nombre>
+    <email>Hasbullah@meme.com</email>
+    <estudios>
+        <curso> 1º</curso>
+        <ciclo>Educacion infantil</ciclo>
+    </estudios>
+    <hobbies>
+        <hobbie>ser un meme</hobbie>
+        <hobbie>futbol</hobbie>
+        <hobbie>cosas de rusos</hobbie>
+    </hobbies>
+    <asignaturas>
+    </asignaturas>
+
+
+
+
+
+
+
+
+</alumno>
